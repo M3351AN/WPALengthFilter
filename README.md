@@ -14,7 +14,7 @@ A tool that helps you filter the passwords in wordlists to only in legal WPA pas
 
 ## Build requirements
 - A compiler that supports AVX2(Optional)
-- A compiler that supports C++17 (GCC 7.17later/Clang 5.0&later/MSVC V141&later)
+- A compiler that supports C++17 (GCC 7.1&later/Clang 5.0&later/MSVC v141&later)
 
 ## Runtime requirements
 - A CPU that supports AVX2(Optional)
